@@ -138,6 +138,10 @@ player_value_rankings_filtered = player_value_rankings[~player_value_rankings['I
 # Calculate draft value
 player_value_rankings_filtered['player_draft_value'] = player_value_rankings_filtered['adjusted_total_value'] * 3.64
 
+
+# Save the output DataFrame to a new CSV file
+player_value_rankings_filtered.to_csv('player_values_final.csv', index=False)
+
 # Define the destination table ID
 destination_table_id = f"{project_id}.{dataset_name}.batter_player_value"
 

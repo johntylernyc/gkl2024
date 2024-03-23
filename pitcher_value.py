@@ -152,8 +152,11 @@ pitcher_value_rankings_filtered = pitcher_value_rankings[~pitcher_value_rankings
 # Calculate draft value
 pitcher_value_rankings_filtered['player_draft_value'] = pitcher_value_rankings_filtered['adjusted_total_value'] * 1.66
 
+# Save the output DataFrame to a new CSV file
+pitcher_value_rankings_filtered.to_csv('pitcher_value_final.csv', index=False)
+
 # Define the destination table ID for pitcher player value
-destination_table_id = f"{project_id}.{dataset_name}.pitcher_player_value"
+destination_table_id = f"{project_id}.{dataset_name}.pitcher_values_final.csv"
 
 # Step 4: Write to BigQuery
 pitcher_value_rankings_filtered.to_gbq(
