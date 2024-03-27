@@ -1,0 +1,31 @@
+## Summary
+
+
+## Methodology 
+- When players were drafted then dropped as part of a waiver wire claim I applied the drafted value of the dropped player. 
+- Waiver wire pickups after draft to fill IL, NA roster slots drafted were assumed $0 cost. 
+- Keeper and Waiver Wire pickups are not factored into early/mid/late draft manager profile.
+    (Note to self: will need to manually calculate this as I didn't bring draft pick into my dataset)
+- Use a method based on prior 3-years, rather than modeling forecasted stats for 2024. 
+    - Discount applied to player value for players age 35+. 
+    - Premium applied to player value for players in prime playing years (27-31). 
+    - Consistency is not factored into player value. It's to be used as added context for drafting. 
+- Some notes on "Prospects": 
+    - Consider prospects those players with only 1 or 2 seasons under the age of 24 or 27, respectively. 
+    - Their consistency score will likely be lower. There's less data to gauge how they'll fare. 
+        - Players with only 1 season have a "League Average" consistency score. 
+        - Players with 2 seasons will see the lease predictable consistency scores, particularly if they went from part-time to full-time playing status between seasons 1 and 2. 
+    - I've adjusted stats for 1-season players with more than 200 MLB ABs per season to assume a full-time playing in 2024 (500ABs). 
+    - I've adjusted stats for 2-season players with less than 400 MLB ABs per season to assume a full-time playing in 2024 (500ABs). 
+    - I've adjusted stats for 1-season players with more than 30 IPs per season to assume a full-time playing in 2024 (140 IP SP, 80 IP RP). 
+    - I've adjusted stats for 2-season players with less than 60 IPs per season to assume a full-time playing in 2024 (140 IP SP, 80 IP RP). 
+- Expected value is based on a z-score calculation across scoring stat categories. With the adjustments noted above. 
+    - The bottom 25% of drafted players will most likely have negative player values. Assume anyone you see with a negative value to be a candidate for the waiver wire. 
+    - I intend/hope to do Replacement Level analyses later this season, which will be more robust in helping understand performance against free agency. 
+- Dollar value ($) is a calculation based on expected value, over the denominator of total draft funds in the GKL draft ($4,680). 
+    - Our league is about a 68% to 32% weight batting value vs. pitching value. The rule of thumb is generally 65%/70% to 35%/30%, so pretty close even given our league's unique stat mix. 
+    - Because I had to maths some negative values to make this all make sense. The actual dollar amounts will appear different than they are in the draft. 
+- I did not include injuries, at all. Pitchers that aren't joining us until August are overstated in value. I'm tired. I've been working on this for awhile. Feel free to submit a pull request dealing with it :joy:
+- Rosters are accurate as of 15:30 GMT 26, March 2024. 
+
+The code is available on GitHub, https://github.com/johntylernyc/gkl2024/draft/draft_analysis

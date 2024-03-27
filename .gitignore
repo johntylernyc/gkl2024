@@ -159,8 +159,9 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# Service account 
+# Service accounts and secrets
 python-sandbox-381204-b2afea7e39f8.json
+draft_analysis/secrets.py
 
 # venv
 myenv/

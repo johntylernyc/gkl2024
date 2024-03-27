@@ -1,0 +1,444 @@
+The ShapeShifters
+Budget	$260
+1.	(7)	Josh Hader (HOU - RP)	$21
+2.	(13)	Trea Turner (PHI - SS)	$56
+3.	(18)	Jose Ramirez (CLE - 3B)	$49
+4.	(51)	Bo Naylor (CLE - C)	$5
+5.	(62)	Grayson Rodriguez (BAL - SP)	$20
+6.	(105)	Hunter Greene (CIN - SP)	$13
+7.	(146)	Anthony Santander (BAL - 1B,RF)	$10
+8.	(157)	Cristian Javier (HOU - SP)	$9
+9.	(164)	Justin Verlander (HOU - SP)	$8
+10.	(168)	Justin Turner (TOR - 1B,2B,3B)	$7
+11.	(212)	Sean Manaea (NYM - SP,RP)	$2
+12.	(217)	Jack Flaherty (DET - SP)	$1
+13.	(251)	Parker Meadows (DET - CF)	$1
+14.	(267)	Andrew Nardi (MIA - RP)	$1
+15.	(282)	Yuki Matsui (SD - P)	$1
+16.	(283)	Aroldis Chapman (PIT - RP)	$2
+17.	(295)	Gavin Stone (LAD - SP)	$2
+18.	(297)	Abner Uribe (MIL - RP)	$1
+19.	(311)	Ranger Suarez (PHI - SP)	$1
+20.	(000)	Jake Burger (MIA - 3B)	$10
+21.	(000)	Yordan Alvarez (HOU - LF)	$40
+Unused	$0 
+Tenacious D
+Budget	$260
+1.	(35)	Francisco Lindor (NYM - SS)	$32
+2.	(71)	Camilo Doval (SF - RP)	$18
+3.	(91)	Chris Sale (ATL - SP)	$18
+4.	(94)	Christian Encarnacion-Strand (CIN - 1B)	$20
+5.	(101)	Craig Kimbrel (BAL - RP)	$12
+6.	(108)	Josh Lowe (TB - CF,RF)	$18
+7.	(112)	Marcell Ozuna (ATL - LF)	$12
+8.	(113)	Josh Jung (TEX - 3B)	$14
+9.	(116)	Shane Bieber (CLE - SP)	$16
+10.	(119)	Kyle Harrison (SF - SP)	$8
+11.	(120)	Michael King (SD - SP,RP)	$14
+12.	(140)	Alec Bohm (PHI - 1B,3B)	$10
+13.	(152)	Willson Contreras (STL - C)	$8
+14.	(166)	Triston McKenzie (CLE - SP)	$7
+15.	(191)	Tyler O'Neill (BOS - LF,CF)	$6
+16.	(227)	Hunter Harvey (WSH - RP)	$7
+17.	(228)	Luis Rengifo (LAA - 2B,3B,SS,RF)	$6
+18.	(236)	Jorge Polanco (SEA - 2B,3B)	$9
+19.	(252)	Luke Raley (SEA - 1B,LF,CF,RF)	$1
+20.	(256)	Frankie Montas (CIN - RP)	$3
+21.	(257)	Jason Adam (TB - RP)	$3
+Unused	$18 
+Steel City Sluggers
+Budget	$260
+1.	(28)	Ozzie Albies (ATL - 2B)	$43
+2.	(50)	Logan Webb (SF - SP)	$29
+3.	(54)	Paul Goldschmidt (STL - 1B)	$26
+4.	(59)	Framber Valdez (HOU - SP)	$24
+5.	(90)	Jordan Romano (TOR - RP)	$16
+6.	(121)	Chris Bassitt (TOR - SP)	$12
+7.	(139)	Yu Darvish (SD - SP)	$10
+8.	(148)	Merrill Kelly (AZ - SP)	$11
+9.	(171)	Mitch Keller (PIT - SP)	$8
+10.	(174)	Adbert Alzolay (CHC - RP)	$10
+11.	(179)	Ke'Bryan Hayes (PIT - 3B)	$10
+12.	(237)	Andrew Benintendi (CWS - LF)	$1
+13.	(268)	Yimi Garcia (TOR - RP)	$1
+14.	(298)	Kris Bryant (COL - 1B,RF)	$1
+15.	(303)	Joel Payamps (MIL - RP)	$2
+16.	(312)	Ceddanne Rafaela (BOS - SS,CF)	$1
+17.	(325)	Joey Meneses (WSH - 1B)	$1
+18.	(336)	Paul Skenes (PIT - SP)	$1
+19.	(000)	Andrew Painter (PHI - SP)	$0
+20.	(000)	Adley Rutschman (BAL - C)	$20
+21.	(000)	Bobby Witt (KC - SS)	$33
+22.	(000)	Clayton Kershaw (LAD - SP)	$0
+23.	(000)	Kevin Ginkel (AZ - SP)	$0
+Unused	$0
+Mary's Little Lambs
+Budget	$260
+1.	(8)	Freddie Freeman (LAD - 1B)	$57
+2.	(11)	Adolis Garcia (TEX - CF,RF)	$31
+3.	(25)	Jose Altuve (HOU - 2B)	$33
+4.	(95)	Bryan Reynolds (PIT - LF,CF)	$21
+5.	(98)	Dansby Swanson (CHC - SS)	$16
+6.	(122)	Yandy Diaz (TB - 1B,3B)	$16
+7.	(162)	Jose Berrios (TOR - SP)	$10
+8.	(207)	Kodai Senga (NYM - SP)	$5
+9.	(240)	Whit Merrifield (PHI - 2B,LF)	$2
+10.	(254)	Scott Effross (NYY - RP)	$1
+11.	(262)	Miles Mikolas (STL - SP)	$3
+12.	(269)	JP Sears (OAK - SP)	$1
+13.	(278)	Yusei Kikuchi (TOR - SP)	$2
+14.	(284)	Travis d'Arnaud (ATL - C)	$1
+15.	(299)	Adam Ottavino (NYM - RP)	$1
+16.	(301)	Bryan Abreu (HOU - RP)	$2
+17.	(309)	Jon Gray (TEX - SP)	$2
+18.	(326)	Ricky Tiedemann (TOR - SP)	$1
+19.	(000)	Edwin Diaz (NYM - RP)	$10
+20.	(000)	Evan Carter (TEX - LF)	$10
+21.	(000)	Shohei Ohtani (Batter) (LAD - Util)	$30
+22.	(000)	Colin Poche (TB - RP)	$0
+22.	(000)	Tim Mayza (TOR - RP)	$0
+Unused	$5 
+Yellow&Black Attack
+Budget	$260
+1.	(96)	Sonny Gray (STL - SP)	$10
+2.	(115)	Gerrit Cole (NYY - SP)	$6
+3.	(132)	Thairo Estrada (SF - 2B,SS)	$10
+4.	(143)	James Outman (LAD - LF,CF)	$9
+5.	(149)	Rhys Hoskins (MIL - 1B)	$10
+6.	(150)	Ezequiel Tovar (COL - SS)	$9
+7.	(151)	Cal Raleigh (SEA - C)	$9
+8.	(156)	Francisco Alvarez (NYM - C)	$7
+9.	(180)	Steven Kwan (CLE - LF)	$6
+10.	(188)	Walker Buehler (LAD - SP)	$7
+11.	(205)	Tommy Edman (STL - 2B,SS,CF,RF)	$5
+12.	(206)	Jarred Kelenic (ATL - LF,CF,RF)	$4
+13.	(215)	Andrew Vaughn (CWS - 1B)	$3
+14.	(253)	David Robertson (TEX - RP)	$2
+15.	(280)	Andrew Abbott (CIN - SP)	$2
+16.	(300)	DJ LeMahieu (NYY - 1B,2B,3B)	$1
+17.	(314)	Luis Severino (NYM - SP)	$1
+18.	(319)	Jorge Lopez (NYM - RP)	$2
+19.	(327)	Zach Neto (LAA - SS)	$1
+20.	(337)	Brendan Rodgers (COL - 2B)	$1
+21.	(339)	Leody Taveras (TEX - CF)	$3
+Unused	$152 
+PJ Shuffle
+Budget	$260
+1.	(22)	Luis Robert (CWS - CF)	$30
+2.	(58)	Teoscar Hernandez (LAD - RF)	$15
+3.	(61)	Yainer Diaz (HOU - C,1B)	$10
+4.	(63)	Nico Hoerner (CHC - 2B,SS)	$24
+5.	(83)	Isaac Paredes (TB - 1B,2B,3B)	$8
+6.	(93)	Andres Gimenez (CLE - 2B)	$14
+7.	(100)	Joe Musgrove (SD - SP)	$17
+8.	(103)	David Bednar (PIT - RP)	$14
+9.	(107)	Ryan Helsley (STL - RP)	$15
+10.	(125)	Pete Fairbanks (TB - RP)	$12
+11.	(133)	Eloy Jimenez (CWS - RF)	$9
+12.	(141)	Nathan Eovaldi (TEX - SP)	$8
+13.	(142)	Chas McCormick (HOU - LF,CF,RF)	$11
+14.	(189)	Taylor Ward (LAA - LF)	$4
+15.	(195)	Ryan Pepiot (TB - SP,RP)	$4
+16.	(204)	Jared Jones (PIT - SP)	$1
+17.	(208)	Mason Miller (OAK - SP)	$4
+18.	(238)	A.J. Minter (ATL - RP)	$13
+19.	(000)	Zach Eflin (TB - SP)	$11
+20.	(000)	Elly De La Cruz (CIN - 3B,SS)	$12
+21.	(000)	Matt McLain (CIN - 2B,SS)	$10
+Unused	$14
+Spare Parts Too
+Budget	$260
+1.	(4)	Alex Bregman (HOU - 3B)	$24
+2.	(14)	Vinnie Pasquantino (KC - 1B)	$21
+3.	(19)	Ha-Seong Kim (SD - 2B,3B,SS)	$19
+4.	(33)	J.T. Realmuto (PHI - C)	$18
+5.	(36)	Luis Castillo (SEA - SP)	$28
+6.	(39)	Christian Yelich (MIL - LF)	$23
+7.	(46)	Jazz Chisholm (MIA - CF)	$21
+8.	(60)	Kyle Schwarber (PHI - LF)	$17
+9.	(64)	Jose Leclerc (TEX - RP)	$7
+10.	(124)	Casey Mize (DET - SP)	$6
+11.	(145)	Willy Adames (MIL - SS)	$9
+12.	(222)	Jordan Lyles (KC - SP)	$2
+13.	(235)	Marcus Stroman (NYY - SP)	$4
+14.	(242)	Kenta Maeda (DET - SP)	$3
+15.	(248)	Will Benson (CIN - LF,RF)	$2
+16.	(258)	MacKenzie Gore (WSH - SP)	$2
+17.	(271)	James Paxton (LAD - SP)	$1
+18.	(286)	Michael Lorenzen (Pitcher) (TEX - SP,RP)	$1
+19.	(000)	Evan Phillips (LAD - RP)	$14
+20.	(000)	Nick Castellanos (PHI - RF)	$22
+21.	(000)	Triston Casas (BOS - 1B)	$16
+Unused	$0 
+Big Daddy's Funk
+Budget	$260
+1.	(3)	Bo Bichette (TOR - SS)	$36
+2.	(10)	Juan Soto (NYY - LF)	$54
+3.	(34)	Mike Trout (LAA - CF)	$23
+4.	(43)	Nolan Jones (COL - 1B,LF,RF)	$26
+5.	(49)	Seiya Suzuki (CHC - RF)	$16
+6.	(56)	Max Fried (ATL - SP)	$23
+7.	(99)	Justin Steele (CHC - SP)	$14
+8.	(131)	Bailey Ober (MIN - SP)	$12
+9.	(137)	Masataka Yoshida (BOS - LF)	$10
+10.	(147)	Christopher Morel (CHC - 2B,CF,RF)	$12
+11.	(159)	Eduardo Rodriguez (AZ - SP)	$6
+12.	(167)	Shota Imanaga (CHC - SP)	$9
+13.	(226)	Kyle Finnegan (WSH - RP)	$3
+14.	(244)	MJ Melendez (KC - C,LF,RF)	$4
+15.	(245)	Carlos Estevez (LAA - RP)	$4
+16.	(249)	Griffin Jax (MIN - RP)	$2
+17.	(255)	Eugenio Suarez (AZ - 3B)	$2
+18.	(287)	Chris Martin (BOS - RP)	$1
+19.	(315)	Jacob deGrom (TEX - SP)	$1
+20.	(328)	Caleb Ferguson (NYY - SP,RP)	$1
+21.	(338)	Erik Swanson (TOR - RP)	$1
+Unused	$0 
+Springfield Isotopes
+Budget	$260
+1.	(5)	Mookie Betts (LAD - 2B,SS,RF)	$63
+2.	(20)	Austin Riley (ATL - 3B)	$46
+3.	(29)	Cody Bellinger (CHC - 1B,CF)	$27
+4.	(47)	Will Smith (LAD - C)	$18
+5.	(66)	Bobby Miller (LAD - SP)	$17
+6.	(80)	Ryan Pressly (HOU - RP)	$17
+7.	(92)	Alexis Diaz (CIN - RP)	$16
+8.	(97)	TJ Friedl (CIN - LF,CF)	$12
+9.	(170)	Ryan Mountcastle (BAL - 1B)	$7
+10.	(177)	Nick Pivetta (BOS - SP,RP)	$5
+11.	(182)	Starling Marte (NYM - RF)	$6
+12.	(192)	Jeimer Candelario (CIN - 1B,3B)	$6
+13.	(196)	Lourdes Gurriel (AZ - LF)	$5
+14.	(213)	J.P. Crawford (SEA - SS)	$4
+15.	(221)	Aaron Civale (TB - SP)	$4
+16.	(273)	Emmet Sheehan (LAD - SP)	$2
+17.	(288)	Garrett Whitlock (BOS - SP,RP)	$1
+18.	(302)	Tim Anderson (MIA - SS)	$1
+19.	(316)	Brendan Donovan (STL - 1B,2B,LF,RF)	$1
+20.	(329)	Jackson Merrill (SD - SS)	$1
+21.	(343)	Harrison Bader (NYM - CF)	$1
+Unused	$0
+What Can Braun Do 4U
+Budget	$260
+1.	(12)	Kyle Tucker (HOU - RF)	$62
+2.	(44)	Manny Machado (SD - 3B)	$30
+3.	(55)	Josh Naylor (CLE - 1B)	$17
+4.	(74)	Oneil Cruz (PIT - SS)	$20
+5.	(87)	Ketel Marte (AZ - 2B)	$20
+6.	(102)	William Contreras (MIL - C)	$20
+7.	(118)	Carlos Correa (MIN - SS)	$13
+8.	(130)	Carlos Rodon (NYY - SP)	$13
+9.	(165)	Brandon Nimmo (NYM - LF,CF)	$9
+10.	(172)	Jose Alvarado (PHI - RP)	$7
+11.	(198)	Jack Suwinski (PIT - LF,CF,RF)	$5
+12.	(225)	Nick Lodolo (CIN - SP)	$5
+13.	(239)	Cristopher Sanchez (PHI - SP)	$4
+14.	(259)	Shane Baz (TB - SP)	$5
+15.	(272)	Matt Strahm (PHI - SP,RP)	$3
+16.	(274)	Devin Williams (MIL - RP)	$1
+17.	(277)	A.J. Puk (MIA - RP)	$3
+18.	(289)	Andrew Kittredge (STL - RP)	$1
+19.	(317)	Trevor Megill (MIL - RP)	$1
+20.	(330)	Gabe Speier (SEA - RP)	$1
+21.	(000)	Spencer Strider (ATL - SP)	$20
+Unused	$0 
+O'Hoppe Day
+Budget	$260
+1.	(6)	Fernando Tatis (SD - RF)	$49
+2.	(16)	Aaron Nola (PHI - SP)	$28
+3.	(27)	Vladimir Guerrero (TOR - 1B)	$44
+4.	(45)	Pablo Lopez (MIN - SP)	$32
+5.	(106)	Wyatt Langford (TEX - Util)	$13
+6.	(123)	Hunter Brown (HOU - SP)	$9
+7.	(129)	Jackson Chourio (MIL - CF)	$12
+8.	(154)	Maikel Garcia (KC - 3B,SS)	$6
+9.	(187)	Brandon Drury (LAA - 1B,2B)	$6
+10.	(193)	Jeremy Pena (HOU - SS)	$7
+11.	(210)	Kutter Crawford (BOS - SP,RP)	$4
+12.	(230)	Reese Olson (DET - SP)	$2
+13.	(243)	Will Smith (KC - RP)	$7
+14.	(260)	Emilio Pagan (CIN - RP)	$1
+15.	(275)	Brusdar Graterol (LAD - RP)	$1
+16.	(290)	Brock Stewart (MIN - RP)	$1
+17.	(304)	Matt Wallner (MIN - LF,RF)	$1
+18.	(318)	Brooks Lee (MIN - SS)	$1
+19.	(000)	Taylor Rogers (SF - RP)	$11
+20.	(000)	Logan O'Hoppe (LAA - C)	$11
+21.	(000)	Lane Thomas (WSH - CF,RF)	$11
+22.	(000)	Shohei Ohtani (LAD - SP)	$0
+23.	(000)	Willi Castro (MIN - 2B,3B,LF,CF)	$0
+24.	(000)	Jordan Wicks (CHC - SP)	$0
+Unused	$3 
+Frank In The House
+Budget	$260
+1.	(48)	Tyler Glasnow (LAD - SP)	$21
+2.	(53)	Freddy Peralta (MIL - SP)	$23
+3.	(72)	Eury Perez (MIA - SP)	$17
+4.	(104)	Esteury Ruiz (OAK - LF,CF,RF)	$11
+5.	(110)	Anthony Volpe (NYY - SS)	$11
+6.	(127)	Max Muncy (LAD - 3B)	$9
+7.	(135)	Ian Happ (CHC - LF)	$11
+8.	(158)	Nathaniel Lowe (TEX - 1B)	$9
+9.	(183)	Jordan Montgomery (STL - SP)	$9
+10.	(194)	Trevor Story (BOS - SS)	$5
+11.	(200)	Lars Nootbaar (STL - LF,CF,RF)	$5
+12.	(202)	Byron Buxton (MIN - Util)	$5
+13.	(216)	Jose Abreu (HOU - 1B)	$4
+14.	(219)	Alex Verdugo (NYY - RF)	$4
+15.	(220)	Gavin Williams (CLE - SP)	$6
+16.	(231)	Braxton Garrett (MIA - SP)	$4
+17.	(276)	Gavin Lux (LAD - 2B)	$1
+18.	(291)	Elias Diaz (COL - C)	$1
+19.	(305)	Robert Stephenson (LAA - RP)	$1
+20.	(322)	Johan Rojas (PHI - CF)	$3
+21.	(331)	Tyler Kinley (COL - RP)	$1
+Unused	$99
+My Name is My Name
+Budget	$260
+1.	(38)	Michael Harris (ATL - CF)	$30
+2.	(40)	Gunnar Henderson (BAL - 3B,SS)	$37
+3.	(42)	Yoshinobu Yamamoto (LAD - SP)	$25
+4.	(111)	Clay Holmes (NYY - RP)	$13
+5.	(128)	Jordan Walker (STL - LF,RF)	$14
+6.	(136)	Nolan Gorman (STL - 2B,3B)	$9
+7.	(153)	Bryan Woo (SEA - SP)	$12
+8.	(161)	Tanner Scott (MIA - RP)	$14
+9.	(173)	Gabriel Moreno (AZ - C)	$8
+10.	(175)	Anthony Rizzo (NYY - 1B)	$3
+11.	(185)	Brandon Pfaadt (AZ - SP)	$10
+12.	(197)	Bryce Miller (SEA - SP)	$5
+13.	(199)	Matt Chapman (SF - 3B)	$5
+14.	(201)	Giancarlo Stanton (NYY - RF)	$5
+15.	(209)	Nestor Cortes (NYY - SP)	$4
+16.	(211)	Hector Neris (CHC - RP)	$5
+17.	(224)	Robert Suarez (SD - RP)	$14
+18.	(229)	Jung Hoo Lee (SF - Util)	$16
+19.	(000)	Tarik Skubal (DET - SP)	$10
+20.	(000)	Jackson Holliday (BAL - SS)	$0
+21.	(000)	Julio Rodriguez (SEA - CF)	$21
+22.	(000)	Ian Hamilton (NYY - RP)	$0
+Unused	$0 
+IWU Tang Clan
+Budget	$260
+1.	(9)	Aaron Judge (NYY - CF,RF)	$52
+2.	(17)	Matt Olson (ATL - 1B)	$59
+3.	(23)	Rafael Devers (BOS - 3B)	$39
+4.	(24)	Corey Seager (TEX - SS)	$32
+5.	(65)	Salvador Perez (KC - C,1B)	$14
+6.	(68)	Jeff McNeil (NYM - 2B,LF,RF)	$11
+7.	(86)	George Springer (TOR - RF)	$16
+8.	(246)	Seth Lugo (KC - SP)	$2
+9.	(261)	Louie Varland (MIN - SP,RP)	$2
+10.	(265)	Griffin Canning (LAA - SP)	$2
+11.	(270)	Brayan Bello (BOS - SP)	$2
+12.	(306)	Kyle Hendricks (CHC - SP)	$1
+13.	(320)	Clarke Schmidt (NYY - SP)	$1
+14.	(332)	Lance Lynn (STL - SP)	$1
+15.	(340)	Joe Jimenez (ATL - RP)	$1
+16.	(344)	Julian Merryweather (CHC - RP)	$1
+17.	(347)	DL Hall (MIL - RP)	$1
+18.	(348)	Joe Kelly (LAD - RP)	$1
+19.	(349)	Orion Kerkering (PHI - RP)	$1
+20.	(000)	Zack Gelof (OAK - 2B)	$10
+21.	(000)	Spencer Steer (CIN - 1B,2B,3B,LF)	$11
+22.	(000)	Jasson Dominguez (NYY - CF)	$0
+Unused	$0 
+Holy Toledo!
+Budget	$260
+1.	(15)	Pete Alonso (NYM - 1B)	$41
+2.	(41)	Randy Arozarena (TB - LF)	$30
+3.	(69)	Luis Campusano (SD - C)	$7
+4.	(70)	Logan Gilbert (SEA - SP)	$24
+5.	(82)	Paul Sewald (AZ - RP)	$17
+6.	(117)	Bryson Stott (PHI - 2B)	$13
+7.	(144)	Luis Arraez (MIA - 1B,2B)	$16
+8.	(160)	Jarren Duran (BOS - LF,CF)	$7
+9.	(176)	Kerry Carpenter (DET - LF,RF)	$8
+10.	(184)	Lucas Giolito (BOS - SP)	$2
+11.	(190)	J.D. Martinez (NYM - LF)	$6
+12.	(247)	Junior Caminero (TB - 3B)	$1
+13.	(263)	Vaughn Grissom (BOS - SS)	$1
+14.	(285)	Michael Busch (CHC - 3B)	$3
+15.	(292)	Zack Littell (TB - SP,RP)	$2
+16.	(293)	Reid Detmers (LAA - SP)	$3
+17.	(307)	Taj Bradley (TB - SP)	$1
+18.	(321)	Nelson Velazquez (KC - LF,RF)	$1
+19.	(000)	Cole Ragans (KC - SP,RP)	$10
+20.	(000)	Spencer Torkelson (DET - 1B)	$10
+21.	(000)	Bryce Harper (PHI - 1B)	$19
+22.	(000)	Tyler Wells (BAL - SP)	$0
+23.	(000)	Yennier Cano (BAL - RP)	$0
+24.	(000)	Jordan Hicks (SF - RP)	$0
+Unused	$38
+Boys of Summer
+Budget	$260
+1.	(26)	Kevin Gausman (TOR - SP)	$23
+2.	(37)	Jonah Heim (TEX - C)	$8
+3.	(73)	Xander Bogaerts (SD - SS)	$28
+4.	(75)	Gleyber Torres (NYY - 2B)	$21
+5.	(77)	Raisel Iglesias (ATL - RP)	$17
+6.	(78)	Dylan Cease (SD - SP)	$17
+7.	(79)	Blake Snell (SF - SP)	$16
+8.	(81)	Jesús Luzardo (MIA - SP)	$27
+9.	(84)	Andres Munoz (SEA - RP)	$16
+10.	(85)	Nolan Arenado (STL - 3B)	$30
+11.	(88)	Tanner Bibee (CLE - SP)	$28
+12.	(89)	Christian Walker (AZ - 1B)	$16
+13.	(169)	Brandon Lowe (TB - 2B)	$4
+14.	(232)	Max Kepler (MIN - RF)	$2
+15.	(264)	Joey Gallo (WSH - 1B,LF,CF,RF)	$1
+16.	(279)	Adam Duvall (ATL - CF,RF)	$1
+17.	(294)	Sal Frelick (MIL - CF,RF)	$1
+18.	(308)	Jake McCarthy (AZ - CF,RF)	$1
+19.	(333)	Bryan De La Cruz (MIA - LF,RF)	$1
+20.	(341)	Max Meyer (MIA - SP)	$1
+21.	(345)	Nolan Schanuel (LAA - 1B)	$1
+Unused	$0 
+The Revs.
+Budget	$260
+1.	(1)	CJ Abrams (WSH - SS)	$24
+2.	(2)	Ronald Acuna (ATL - RF)	$67
+3.	(57)	Emmanuel Clase (CLE - RP)	$21
+4.	(76)	Sean Murphy (ATL - C)	$10
+5.	(109)	Kenley Jansen (BOS - RP)	$11
+6.	(114)	Cedric Mullins (BAL - CF)	$12
+7.	(126)	Kyle Bradish (BAL - SP)	$13
+8.	(134)	Jorge Soler (SF - RF)	$11
+9.	(155)	Jonathan India (CIN - 2B)	$8
+10.	(178)	Daulton Varsho (TOR - LF,CF)	$7
+11.	(181)	Keibert Ruiz (WSH - C)	$5
+12.	(186)	Mitch Garver (SEA - C)	$4
+13.	(203)	Charlie Morton (ATL - SP)	$5
+14.	(214)	Jose Siri (TB - CF)	$4
+15.	(218)	Ryan McMahon (COL - 2B,3B)	$4
+16.	(223)	Alex Lange (DET - RP)	$5
+17.	(233)	Josh Bell (MIA - 1B)	$2
+18.	(241)	Austin Hays (BAL - LF,CF)	$2
+19.	(313)	Max Scherzer (TEX - SP)	$2
+20.	(323)	Logan Allen (CLE - SP)	$1
+21.	(334)	Colt Keith (DET - 2B,3B)	$1
+Unused	$41 
+Kirby Puckett
+Budget	$260
+1.	(21)	Corbin Burnes (BAL - SP)	$34
+2.	(30)	Zack Wheeler (PHI - SP)	$33
+3.	(31)	Marcus Semien (TEX - 2B)	$33
+4.	(32)	Joe Ryan (MIN - SP)	$22
+5.	(52)	Zac Gallen (AZ - SP)	$28
+6.	(67)	Jhoan Duran (MIN - RP)	$22
+7.	(138)	Riley Greene (DET - CF,RF)	$10
+8.	(163)	Edouard Julien (MIN - 2B)	$9
+9.	(234)	Jake Fraley (CIN - LF,RF)	$1
+10.	(250)	Brent Rooker (OAK - LF,RF)	$1
+11.	(266)	Javier Baez (DET - SS)	$1
+12.	(281)	Ty France (SEA - 1B)	$1
+13.	(296)	Alejandro Kirk (TOR - C)	$1
+14.	(310)	Garrett Crochet (CWS - RP)	$1
+15.	(324)	Henry Davis (PIT - RF)	$1
+16.	(335)	Jordan Lawlar (AZ - SS)	$1
+17.	(342)	Noelvi Marte (CIN - 3B)	$2
+18.	(346)	Mitch Haniger (SEA - LF,RF)	$1
+19.	(000)	George Kirby (SEA - SP)	$28
+20.	(000)	Royce Lewis (MIN - 3B)	$10
+21.	(000)	Corbin Carroll (AZ - LF,CF,RF)	$20
+Unused	$0

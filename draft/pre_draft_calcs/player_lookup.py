@@ -1,6 +1,8 @@
 import pandas as pd
 from pybaseball import playerid_lookup
 
+
+
 # Load the CSV file into a pandas DataFrame
 df = pd.read_csv('y_players_2024.csv')
 
