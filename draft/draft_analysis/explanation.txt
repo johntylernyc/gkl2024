@@ -26,6 +26,6 @@
     - Our league is about a 68% to 32% weight batting value vs. pitching value. The rule of thumb is generally 65%/70% to 35%/30%, so pretty close even given our league's unique stat mix. 
     - Because I had to maths some negative values to make this all make sense. The actual dollar amounts will appear different than they are in the draft. 
 - I did not include injuries, at all. Pitchers that aren't joining us until August are overstated in value. I'm tired. I've been working on this for awhile. Feel free to submit a pull request dealing with it :joy:
-- Rosters are accurate as of 15:30 GMT 26, March 2024. 
+- Rosters are accurate as of 16:51 EST 27, March 2024. 
 
 The code is available on GitHub, https://github.com/johntylernyc/gkl2024/draft/draft_analysis

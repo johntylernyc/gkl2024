@@ -51,4 +51,4 @@ final_pitching_stats.columns = [clean_column_name(col) for col in final_pitching
 final_pitching_stats.columns = [col.replace('/', '_per_') for col in final_pitching_stats.columns]
 
 # Use to_gbq to append the data to the pitcher_stats table in BigQuery
-final_pitching_stats.to_gbq(pitcher_table_id, project_id=project_id, if_exists='append', credentials=credentials)
+final_pitching_stats.to_gbq(pitcher_table_id, project_id=project_id, if_exists='replace', credentials=credentials)

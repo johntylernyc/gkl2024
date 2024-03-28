@@ -122,11 +122,20 @@ def adjust_player_value(row):
     
     return adjusted_value
 
-# Apply the adjust_total_value function to each row
-data['adjusted_expected_value'] = data.apply(adjust_player_value, axis=1)
-
 # Calculate draft value
 data['player_draft_value'] = data['adjusted_expected_value'] * 4.19
+
+def enforce_negative_value_floor(row, floor_value=-10):
+    # Check if the adjusted value is less than the floor value
+    if row['player_draft_value'] < floor_value:
+        # If it is, set it to the floor value
+        return floor_value
+    else:
+        # Otherwise, keep the original value
+        return row['player_draft_value']
+
+# Apply the enforce_negative_value_floor function to each row
+data['player_draft_value'] = data.apply(enforce_negative_value_floor, axis=1)
 
 destination_table_id = f"{project_id}.{dataset_name}.pitcher_zscore_value"
 

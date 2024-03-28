@@ -1,391 +1,394 @@
 Team_Name,Player_Name,Position,Cost
-The ShapeShifters,Josh Hader,RP,$21
-The ShapeShifters,Trea Turner,SS,$56
-The ShapeShifters,Jose Ramirez,3B,$49
-The ShapeShifters,Bo Naylor,C,$5
-The ShapeShifters,Grayson Rodriguez,SP,$20
-The ShapeShifters,Hunter Greene,SP,$13
-The ShapeShifters,Anthony Santander,"1B,RF",$10
-The ShapeShifters,Cristian Javier,SP,$9
-The ShapeShifters,Justin Verlander,SP,$8
-The ShapeShifters,Justin Turner,"1B,2B,3B",$7
-The ShapeShifters,Sean Manaea,"SP,RP",$2
-The ShapeShifters,Jack Flaherty,SP,$1
-The ShapeShifters,Parker Meadows,CF,$1
-The ShapeShifters,Andrew Nardi,RP,$1
-The ShapeShifters,Yuki Matsui,P,$1
-The ShapeShifters,Aroldis Chapman,RP,$2
-The ShapeShifters,Gavin Stone,SP,$2
-The ShapeShifters,Abner Uribe,RP,$1
-The ShapeShifters,Ranger Suarez,SP,$1
-The ShapeShifters,Jake Burger,3B,$10
-The ShapeShifters,Yordan Alvarez,LF,$40
-Tenacious D,Francisco Lindor,SS,$32
-Tenacious D,Camilo Doval,RP,$18
-Tenacious D,Chris Sale,SP,$18
-Tenacious D,Christian Encarnacion-Strand,1B,$20
-Tenacious D,Craig Kimbrel,RP,$12
-Tenacious D,Josh Lowe,"CF,RF",$18
-Tenacious D,Marcell Ozuna,LF,$12
-Tenacious D,Josh Jung,3B,$14
-Tenacious D,Shane Bieber,SP,$16
-Tenacious D,Kyle Harrison,SP,$8
-Tenacious D,Michael King,"SP,RP",$14
-Tenacious D,Alec Bohm,"1B,3B",$10
-Tenacious D,Willson Contreras,C,$8
-Tenacious D,Triston McKenzie,SP,$7
-Tenacious D,Tyler O'Neill,"LF,CF",$6
-Tenacious D,Hunter Harvey,RP,$7
-Tenacious D,Luis Rengifo,"2B,3B,SS,RF",$6
-Tenacious D,Jorge Polanco,"2B,3B",$9
-Tenacious D,Luke Raley,"1B,LF,CF,RF",$1
-Tenacious D,Frankie Montas,RP,$3
-Tenacious D,Jason Adam,RP,$3
-Steel City Sluggers,Ozzie Albies,2B,$43
-Steel City Sluggers,Logan Webb,SP,$29
-Steel City Sluggers,Paul Goldschmidt,1B,$26
-Steel City Sluggers,Framber Valdez,SP,$24
-Steel City Sluggers,Jordan Romano,RP,$16
-Steel City Sluggers,Chris Bassitt,SP,$12
-Steel City Sluggers,Yu Darvish,SP,$10
-Steel City Sluggers,Merrill Kelly,SP,$11
-Steel City Sluggers,Mitch Keller,SP,$8
-Steel City Sluggers,Adbert Alzolay,RP,$10
-Steel City Sluggers,Ke'Bryan Hayes,3B,$10
-Steel City Sluggers,Andrew Benintendi,LF,$1
-Steel City Sluggers,Yimi Garcia,RP,$1
-Steel City Sluggers,Kris Bryant,"1B,RF",$1
-Steel City Sluggers,Joel Payamps,RP,$2
-Steel City Sluggers,Ceddanne Rafaela,"SS,CF",$1
-Steel City Sluggers,Joey Meneses,1B,$1
-Steel City Sluggers,Paul Skenes,SP,$1
-Steel City Sluggers,Andrew Painter,SP,$0
-Steel City Sluggers,Adley Rutschman,C,$20
-Steel City Sluggers,Bobby Witt,SS,$33
-Steel City Sluggers,Clayton Kershaw,SP,$0
-Steel City Sluggers,Kevin Ginkel,SP,$0
-Mary's Little Lambs,Freddie Freeman,1B,$57
-Mary's Little Lambs,Adolis Garcia,"CF,RF",$31
-Mary's Little Lambs,Jose Altuve,2B,$33
-Mary's Little Lambs,Bryan Reynolds,"LF,CF",$21
-Mary's Little Lambs,Dansby Swanson,SS,$16
-Mary's Little Lambs,Yandy Diaz,"1B,3B",$16
-Mary's Little Lambs,Jose Berrios,SP,$10
-Mary's Little Lambs,Kodai Senga,SP,$5
-Mary's Little Lambs,Whit Merrifield,"2B,LF",$2
-Mary's Little Lambs,Scott Effross,RP,$1
-Mary's Little Lambs,Miles Mikolas,SP,$3
-Mary's Little Lambs,JP Sears,SP,$1
-Mary's Little Lambs,Yusei Kikuchi,SP,$2
-Mary's Little Lambs,Travis d'Arnaud,C,$1
-Mary's Little Lambs,Adam Ottavino,RP,$1
-Mary's Little Lambs,Bryan Abreu,RP,$2
-Mary's Little Lambs,Jon Gray,SP,$2
-Mary's Little Lambs,Ricky Tiedemann,SP,$1
-Mary's Little Lambs,Edwin Diaz,RP,$10
-Mary's Little Lambs,Evan Carter,LF,$10
-Mary's Little Lambs,Shohei Ohtani,Util,$30
-Mary's Little Lambs,Colin Poche,RP,$0
-Mary's Little Lambs,Tim Mayza,RP,$0
-Yellow&Black Attack,Sonny Gray,SP,$10
-Yellow&Black Attack,Gerrit Cole,SP,$6
-Yellow&Black Attack,Thairo Estrada,"2B,SS",$10
-Yellow&Black Attack,James Outman,"LF,CF",$9
-Yellow&Black Attack,Rhys Hoskins,1B,$10
-Yellow&Black Attack,Ezequiel Tovar,SS,$9
-Yellow&Black Attack,Cal Raleigh,C,$9
-Yellow&Black Attack,Francisco Alvarez,C,$7
-Yellow&Black Attack,Steven Kwan,LF,$6
-Yellow&Black Attack,Walker Buehler,SP,$7
-Yellow&Black Attack,Tommy Edman,"2B,SS,CF,RF",$5
-Yellow&Black Attack,Jarred Kelenic,"LF,CF,RF",$4
-Yellow&Black Attack,Andrew Vaughn,1B,$3
-Yellow&Black Attack,David Robertson,RP,$2
-Yellow&Black Attack,Andrew Abbott,SP,$2
-Yellow&Black Attack,DJ LeMahieu,"1B,2B,3B",$1
-Yellow&Black Attack,Luis Severino,SP,$1
-Yellow&Black Attack,Jorge Lopez,RP,$2
-Yellow&Black Attack,Zach Neto,SS,$1
-Yellow&Black Attack,Brendan Rodgers,2B,$1
-Yellow&Black Attack,Leody Taveras,CF,$3
-PJ Shuffle,Luis Robert,CF,$30
-PJ Shuffle,Teoscar Hernandez,RF,$15
-PJ Shuffle,Yainer Diaz,"C,1B",$10
-PJ Shuffle,Nico Hoerner,"2B,SS",$24
-PJ Shuffle,Isaac Paredes,"1B,2B,3B",$8
-PJ Shuffle,Andres Gimenez,2B,$14
-PJ Shuffle,Joe Musgrove,SP,$17
-PJ Shuffle,David Bednar,RP,$14
-PJ Shuffle,Ryan Helsley,RP,$15
-PJ Shuffle,Pete Fairbanks,RP,$12
-PJ Shuffle,Eloy Jimenez,RF,$9
-PJ Shuffle,Nathan Eovaldi,SP,$8
-PJ Shuffle,Chas McCormick,"LF,CF,RF",$11
-PJ Shuffle,Taylor Ward,LF,$4
-PJ Shuffle,Ryan Pepiot,"SP,RP",$4
-PJ Shuffle,Jared Jones,SP,$1
-PJ Shuffle,Mason Miller,SP,$4
-PJ Shuffle,A.J. Minter,RP,$13
-PJ Shuffle,Zach Eflin,SP,$11
-PJ Shuffle,Elly De La Cruz,"3B,SS",$12
-PJ Shuffle,Matt McLain,"2B,SS",$10
-Spare Parts Too,Alex Bregman,3B,$24
-Spare Parts Too,Vinnie Pasquantino,1B,$21
-Spare Parts Too,Ha-Seong Kim,"2B,3B,SS",$19
-Spare Parts Too,J.T. Realmuto,C,$18
-Spare Parts Too,Luis Castillo,SP,$28
-Spare Parts Too,Christian Yelich,LF,$23
-Spare Parts Too,Jazz Chisholm,CF,$21
-Spare Parts Too,Kyle Schwarber,LF,$17
-Spare Parts Too,Jose Leclerc,RP,$7
-Spare Parts Too,Casey Mize,SP,$6
-Spare Parts Too,Willy Adames,SS,$9
-Spare Parts Too,Jordan Lyles,SP,$2
-Spare Parts Too,Marcus Stroman,SP,$4
-Spare Parts Too,Kenta Maeda,SP,$3
-Spare Parts Too,Will Benson,"LF,RF",$2
-Spare Parts Too,MacKenzie Gore,SP,$2
-Spare Parts Too,James Paxton,SP,$1
-Spare Parts Too,Michael Lorenzen,"SP,RP",$1
-Spare Parts Too,Evan Phillips,RP,$14
-Spare Parts Too,Nick Castellanos,RF,$22
-Spare Parts Too,Triston Casas,1B,$16
-Big Daddy's Funk,Bo Bichette,SS,$36
-Big Daddy's Funk,Juan Soto,LF,$54
-Big Daddy's Funk,Mike Trout,CF,$23
-Big Daddy's Funk,Nolan Jones,"1B,LF,RF",$26
-Big Daddy's Funk,Seiya Suzuki,RF,$16
-Big Daddy's Funk,Max Fried,SP,$23
-Big Daddy's Funk,Justin Steele,SP,$14
-Big Daddy's Funk,Bailey Ober,SP,$12
-Big Daddy's Funk,Masataka Yoshida,LF,$10
-Big Daddy's Funk,Christopher Morel,"2B,CF,RF",$12
-Big Daddy's Funk,Eduardo Rodriguez,SP,$6
-Big Daddy's Funk,Shota Imanaga,SP,$9
-Big Daddy's Funk,Kyle Finnegan,RP,$3
-Big Daddy's Funk,MJ Melendez,"C,LF,RF",$4
-Big Daddy's Funk,Carlos Estevez,RP,$4
-Big Daddy's Funk,Griffin Jax,RP,$2
-Big Daddy's Funk,Eugenio Suarez,3B,$2
-Big Daddy's Funk,Chris Martin,RP,$1
-Big Daddy's Funk,Jacob deGrom,SP,$1
-Big Daddy's Funk,Caleb Ferguson,"SP,RP",$1
-Big Daddy's Funk,Erik Swanson,RP,$1
-Springfield Isotopes,Mookie Betts,"2B,SS,RF",$63
-Springfield Isotopes,Austin Riley,3B,$46
-Springfield Isotopes,Cody Bellinger,"1B,CF",$27
-Springfield Isotopes,Will Smith,C,$18
-Springfield Isotopes,Bobby Miller,SP,$17
-Springfield Isotopes,Ryan Pressly,RP,$17
-Springfield Isotopes,Alexis Diaz,RP,$16
-Springfield Isotopes,TJ Friedl,"LF,CF",$12
-Springfield Isotopes,Ryan Mountcastle,1B,$7
-Springfield Isotopes,Nick Pivetta,"SP,RP",$5
-Springfield Isotopes,Starling Marte,RF,$6
-Springfield Isotopes,Jeimer Candelario,"1B,3B",$6
-Springfield Isotopes,Lourdes Gurriel,LF,$5
-Springfield Isotopes,J.P. Crawford,SS,$4
-Springfield Isotopes,Aaron Civale,SP,$4
-Springfield Isotopes,Emmet Sheehan,SP,$2
-Springfield Isotopes,Garrett Whitlock,"SP,RP",$1
-Springfield Isotopes,Tim Anderson,SS,$1
-Springfield Isotopes,Brendan Donovan,"1B,2B,LF,RF",$1
-Springfield Isotopes,Jackson Merrill,SS,$1
-Springfield Isotopes,Harrison Bader,CF,$1
-What Can Braun Do 4U,Kyle Tucker,RF,$62
-What Can Braun Do 4U,Manny Machado,3B,$30
-What Can Braun Do 4U,Josh Naylor,1B,$17
-What Can Braun Do 4U,Oneil Cruz,SS,$20
-What Can Braun Do 4U,Ketel Marte,2B,$20
-What Can Braun Do 4U,William Contreras,C,$20
-What Can Braun Do 4U,Carlos Correa,SS,$13
-What Can Braun Do 4U,Carlos Rodon,SP,$13
-What Can Braun Do 4U,Brandon Nimmo,"LF,CF",$9
-What Can Braun Do 4U,Jose Alvarado,RP,$7
-What Can Braun Do 4U,Jack Suwinski,"LF,CF,RF",$5
-What Can Braun Do 4U,Nick Lodolo,SP,$5
-What Can Braun Do 4U,Cristopher Sanchez,SP,$4
-What Can Braun Do 4U,Shane Baz,SP,$5
-What Can Braun Do 4U,Matt Strahm,"SP,RP",$3
-What Can Braun Do 4U,Devin Williams,RP,$1
-What Can Braun Do 4U,A.J. Puk,RP,$3
-What Can Braun Do 4U,Andrew Kittredge,RP,$1
-What Can Braun Do 4U,Trevor Megill,RP,$1
-What Can Braun Do 4U,Gabe Speier,RP,$1
-What Can Braun Do 4U,Spencer Strider,SP,$20
-O'Hoppe Day,Fernando Tatis,RF,$49
-O'Hoppe Day,Aaron Nola,SP,$28
-O'Hoppe Day,Vladimir Guerrero,1B,$44
-O'Hoppe Day,Pablo Lopez,SP,$32
-O'Hoppe Day,Wyatt Langford,Util,$13
-O'Hoppe Day,Hunter Brown,SP,$9
-O'Hoppe Day,Jackson Chourio,CF,$12
-O'Hoppe Day,Maikel Garcia,"3B,SS",$6
-O'Hoppe Day,Brandon Drury,"1B,2B",$6
-O'Hoppe Day,Jeremy Pena,SS,$7
-O'Hoppe Day,Kutter Crawford,"SP,RP",$4
-O'Hoppe Day,Reese Olson,SP,$2
-O'Hoppe Day,Will Smith,RP,$7
-O'Hoppe Day,Emilio Pagan,RP,$1
-O'Hoppe Day,Brusdar Graterol,RP,$1
-O'Hoppe Day,Brock Stewart,RP,$1
-O'Hoppe Day,Matt Wallner,"LF,RF",$1
-O'Hoppe Day,Brooks Lee,SS,$1
-O'Hoppe Day,Taylor Rogers,RP,$11
-O'Hoppe Day,Logan O'Hoppe,C,$11
-O'Hoppe Day,Lane Thomas,"CF,RF",$11
-O'Hoppe Day,Shohei Ohtani,SP,$0
-O'Hoppe Day,Willi Castro,"2B,3B,LF,CF",$0
-O'Hoppe Day,Jordan Wicks,SP,$0
-Frank in the House,Tyler Glasnow,SP,$21
-Frank in the House,Freddy Peralta,SP,$23
-Frank in the House,Eury Perez,SP,$17
-Frank in the House,Esteury Ruiz,"LF,CF,RF",$11
-Frank in the House,Anthony Volpe,SS,$11
-Frank in the House,Max Muncy,3B,$9
-Frank in the House,Ian Happ,LF,$11
-Frank in the House,Nathaniel Lowe,1B,$9
-Frank in the House,Jordan Montgomery,SP,$9
-Frank in the House,Trevor Story,SS,$5
-Frank in the House,Lars Nootbaar,"LF,CF,RF",$5
-Frank in the House,Byron Buxton,Util,$5
-Frank in the House,Jose Abreu,1B,$4
-Frank in the House,Alex Verdugo,RF,$4
-Frank in the House,Gavin Williams,SP,$6
-Frank in the House,Braxton Garrett,SP,$4
-Frank in the House,Gavin Lux,2B,$1
-Frank in the House,Elias Diaz,C,$1
-Frank in the House,Robert Stephenson,RP,$1
-Frank in the House,Johan Rojas,CF,$3
-Frank in the House,Tyler Kinley,RP,$1
-My Name is My Name,Michael Harris,CF,$30
-My Name is My Name,Gunnar Henderson,"3B,SS",$37
-My Name is My Name,Yoshinobu Yamamoto,SP,$25
-My Name is My Name,Clay Holmes,RP,$13
-My Name is My Name,Jordan Walker,"LF,RF",$14
-My Name is My Name,Nolan Gorman,"2B,3B",$9
-My Name is My Name,Bryan Woo,SP,$12
-My Name is My Name,Tanner Scott,RP,$14
-My Name is My Name,Gabriel Moreno,C,$8
-My Name is My Name,Anthony Rizzo,1B,$3
-My Name is My Name,Brandon Pfaadt,SP,$10
-My Name is My Name,Bryce Miller,SP,$5
-My Name is My Name,Matt Chapman,3B,$5
-My Name is My Name,Giancarlo Stanton,RF,$5
-My Name is My Name,Nestor Cortes,SP,$4
-My Name is My Name,Hector Neris,RP,$5
-My Name is My Name,Robert Suarez,RP,$14
-My Name is My Name,Jung Hoo Lee,Util,$16
-My Name is My Name,Tarik Skubal,SP,$10
-My Name is My Name,Jackson Holliday,SS,$0
-My Name is My Name,Julio Rodriguez,CF,$21
-My Name is My Name,Ian Hamilton,RP,$0
-IWU Tang Clan,Aaron Judge,"CF,RF",$52
-IWU Tang Clan,Matt Olson,1B,$59
-IWU Tang Clan,Rafael Devers,3B,$39
-IWU Tang Clan,Corey Seager,SS,$32
-IWU Tang Clan,Salvador Perez,"C,1B",$14
-IWU Tang Clan,Jeff McNeil,"2B,LF,RF",$11
-IWU Tang Clan,George Springer,RF,$16
-IWU Tang Clan,Seth Lugo,SP,$2
-IWU Tang Clan,Louie Varland,"SP,RP",$2
-IWU Tang Clan,Griffin Canning,SP,$2
-IWU Tang Clan,Brayan Bello,SP,$2
-IWU Tang Clan,Kyle Hendricks,SP,$1
-IWU Tang Clan,Clarke Schmidt,SP,$1
-IWU Tang Clan,Lance Lynn,SP,$1
-IWU Tang Clan,Joe Jimenez,RP,$1
-IWU Tang Clan,Julian Merryweather,RP,$1
-IWU Tang Clan,DL Hall,RP,$1
-IWU Tang Clan,Joe Kelly,RP,$1
-IWU Tang Clan,Orion Kerkering,RP,$1
-IWU Tang Clan,Zack Gelof,2B,$10
-IWU Tang Clan,Spencer Steer,"1B,2B,3B,LF",$11
-IWU Tang Clan,Jasson Dominguez,CF,$0
-Holy Toledo!,Pete Alonso,1B,$41
-Holy Toledo!,Randy Arozarena,LF,$30
-Holy Toledo!,Luis Campusano,C,$7
-Holy Toledo!,Logan Gilbert,SP,$24
-Holy Toledo!,Paul Sewald,RP,$17
-Holy Toledo!,Bryson Stott,2B,$13
-Holy Toledo!,Luis Arraez,"1B,2B",$16
-Holy Toledo!,Jarren Duran,"LF,CF",$7
-Holy Toledo!,Kerry Carpenter,"LF,RF",$8
-Holy Toledo!,Lucas Giolito,SP,$2
-Holy Toledo!,J.D. Martinez,LF,$6
-Holy Toledo!,Junior Caminero,3B,$1
-Holy Toledo!,Vaughn Grissom,SS,$1
-Holy Toledo!,Michael Busch,3B,$3
-Holy Toledo!,Zack Littell,"SP,RP",$2
-Holy Toledo!,Reid Detmers,SP,$3
-Holy Toledo!,Taj Bradley,SP,$1
-Holy Toledo!,Nelson Velazquez,"LF,RF",$1
-Holy Toledo!,Cole Ragans,"SP,RP",$10
-Holy Toledo!,Spencer Torkelson,1B,$10
-Holy Toledo!,Bryce Harper,1B,$19
-Holy Toledo!,Tyler Wells,SP,$0
-Holy Toledo!,Yennier Cano,RP,$0
-Holy Toledo!,Jordan Hicks,RP,$0
-Boys of Summer,Kevin Gausman,SP,$23
-Boys of Summer,Jonah Heim,C,$8
-Boys of Summer,Xander Bogaerts,SS,$28
-Boys of Summer,Gleyber Torres,2B,$21
-Boys of Summer,Raisel Iglesias,RP,$17
-Boys of Summer,Dylan Cease,SP,$17
-Boys of Summer,Blake Snell,SP,$16
-Boys of Summer,Jesús Luzardo,SP,$27
-Boys of Summer,Andres Munoz,RP,$16
-Boys of Summer,Nolan Arenado,3B,$30
-Boys of Summer,Tanner Bibee,SP,$28
-Boys of Summer,Christian Walker,1B,$16
-Boys of Summer,Brandon Lowe,2B,$4
-Boys of Summer,Max Kepler,RF,$2
-Boys of Summer,Joey Gallo,"1B,LF,CF,RF",$1
-Boys of Summer,Adam Duvall,"CF,RF",$1
-Boys of Summer,Sal Frelick,"CF,RF",$1
-Boys of Summer,Jake McCarthy,"CF,RF",$1
-Boys of Summer,Bryan De La Cruz,"LF,RF",$1
-Boys of Summer,Max Meyer,SP,$1
-Boys of Summer,Nolan Schanuel,1B,$1
-The Revs.,CJ Abrams,SS,$24
-The Revs.,Ronald Acuna,RF,$67
-The Revs.,Emmanuel Clase,RP,$21
-The Revs.,Sean Murphy,C,$10
-The Revs.,Kenley Jansen,RP,$11
-The Revs.,Cedric Mullins,CF,$12
-The Revs.,Kyle Bradish,SP,$13
-The Revs.,Jorge Soler,RF,$11
-The Revs.,Jonathan India,2B,$8
-The Revs.,Daulton Varsho,"LF,CF",$7
-The Revs.,Keibert Ruiz,C,$5
-The Revs.,Mitch Garver,C,$4
-The Revs.,Charlie Morton,SP,$5
-The Revs.,Jose Siri,CF,$4
-The Revs.,Ryan McMahon,"2B,3B",$4
-The Revs.,Alex Lange,RP,$5
-The Revs.,Josh Bell,1B,$2
-The Revs.,Austin Hays,"LF,CF",$2
-The Revs.,Max Scherzer,SP,$2
-The Revs.,Logan Allen,SP,$1
-The Revs.,Colt Keith,"2B,3B",$1
-Kirby Puckett,Corbin Burnes,SP,$34
-Kirby Puckett,Zack Wheeler,SP,$33
-Kirby Puckett,Marcus Semien,2B,$33
-Kirby Puckett,Joe Ryan,SP,$22
-Kirby Puckett,Zac Gallen,SP,$28
-Kirby Puckett,Jhoan Duran,RP,$22
-Kirby Puckett,Riley Greene,"CF,RF",$10
-Kirby Puckett,Edouard Julien,2B,$9
-Kirby Puckett,Jake Fraley,"LF,RF",$1
-Kirby Puckett,Brent Rooker,"LF,RF",$1
-Kirby Puckett,Javier Baez,SS,$1
-Kirby Puckett,Ty France,1B,$1
-Kirby Puckett,Alejandro Kirk,C,$1
-Kirby Puckett,Garrett Crochet,RP,$1
-Kirby Puckett,Henry Davis,RF,$1
-Kirby Puckett,Jordan Lawlar,SS,$1
-Kirby Puckett,Noelvi Marte,3B,$2
-Kirby Puckett,Mitch Haniger,"LF,RF",$1
-Kirby Puckett,George Kirby,SP,$28
-Kirby Puckett,Royce Lewis,3B,$10
-Kirby Puckett,Corbin Carroll,"LF,CF,RF",$20
+The ShapeShifters,Josh Hader,RP,21
+The ShapeShifters,Trea Turner,SS,56
+The ShapeShifters,Jose Ramirez,3B,49
+The ShapeShifters,Bo Naylor,C,5
+The ShapeShifters,Grayson Rodriguez,SP,20
+The ShapeShifters,Hunter Greene,SP,13
+The ShapeShifters,Anthony Santander,"1B,RF",10
+The ShapeShifters,Cristian Javier,SP,9
+The ShapeShifters,Justin Verlander,SP,8
+The ShapeShifters,Justin Turner,"1B,2B,3B",7
+The ShapeShifters,Sean Manaea,"SP,RP",2
+The ShapeShifters,Jack Flaherty,SP,1
+The ShapeShifters,Parker Meadows,CF,1
+The ShapeShifters,Andrew Nardi,RP,1
+The ShapeShifters,Yuki Matsui,P,1
+The ShapeShifters,Aroldis Chapman,RP,2
+The ShapeShifters,Gavin Stone,SP,2
+The ShapeShifters,Abner Uribe,RP,1
+The ShapeShifters,Ranger Suarez,SP,1
+The ShapeShifters,Jake Burger,3B,10
+The ShapeShifters,Yordan Alvarez,LF,40
+Tenacious D,Francisco Lindor,SS,32
+Tenacious D,Camilo Doval,RP,18
+Tenacious D,Chris Sale,SP,18
+Tenacious D,Christian Encarnacion-Strand,1B,20
+Tenacious D,Craig Kimbrel,RP,12
+Tenacious D,Josh Lowe,"CF,RF",18
+Tenacious D,Marcell Ozuna,LF,12
+Tenacious D,Josh Jung,3B,14
+Tenacious D,Shane Bieber,SP,16
+Tenacious D,Kyle Harrison,SP,8
+Tenacious D,Michael King,"SP,RP",14
+Tenacious D,Alec Bohm,"1B,3B",10
+Tenacious D,Willson Contreras,C,8
+Tenacious D,Triston McKenzie,SP,7
+Tenacious D,Tyler O'Neill,"LF,CF",6
+Tenacious D,Hunter Harvey,RP,7
+Tenacious D,Luis Rengifo,"2B,3B,SS,RF",6
+Tenacious D,Jorge Polanco,"2B,3B",9
+Tenacious D,Luke Raley,"1B,LF,CF,RF",1
+Tenacious D,Frankie Montas,RP,3
+Tenacious D,Jason Adam,RP,3
+Steel City Sluggers,Ozzie Albies,2B,43
+Steel City Sluggers,Logan Webb,SP,29
+Steel City Sluggers,Paul Goldschmidt,1B,26
+Steel City Sluggers,Framber Valdez,SP,24
+Steel City Sluggers,Jordan Romano,RP,16
+Steel City Sluggers,Chris Bassitt,SP,12
+Steel City Sluggers,Yu Darvish,SP,10
+Steel City Sluggers,Merrill Kelly,SP,11
+Steel City Sluggers,Mitch Keller,SP,8
+Steel City Sluggers,Adbert Alzolay,RP,10
+Steel City Sluggers,Ke'Bryan Hayes,3B,10
+Steel City Sluggers,Andrew Benintendi,LF,1
+Steel City Sluggers,Yimi Garcia,RP,1
+Steel City Sluggers,Kris Bryant,"1B,RF",1
+Steel City Sluggers,Joel Payamps,RP,2
+Steel City Sluggers,Ceddanne Rafaela,"SS,CF",1
+Steel City Sluggers,Joey Meneses,1B,1
+Steel City Sluggers,Paul Skenes,SP,1
+Steel City Sluggers,Andrew Painter,SP,0
+Steel City Sluggers,Adley Rutschman,C,20
+Steel City Sluggers,Bobby Witt,SS,33
+Steel City Sluggers,Clayton Kershaw,SP,0
+Steel City Sluggers,Kevin Ginkel,SP,0
+Mary's Little Lambs,Freddie Freeman,1B,57
+Mary's Little Lambs,Adolis Garcia,"CF,RF",31
+Mary's Little Lambs,Jose Altuve,2B,33
+Mary's Little Lambs,Bryan Reynolds,"LF,CF",21
+Mary's Little Lambs,Dansby Swanson,SS,16
+Mary's Little Lambs,Yandy Diaz,"1B,3B",16
+Mary's Little Lambs,Jose Berrios,SP,10
+Mary's Little Lambs,Kodai Senga,SP,5
+Mary's Little Lambs,Whit Merrifield,"2B,LF",2
+Mary's Little Lambs,Scott Effross,RP,1
+Mary's Little Lambs,Miles Mikolas,SP,3
+Mary's Little Lambs,JP Sears,SP,1
+Mary's Little Lambs,Yusei Kikuchi,SP,2
+Mary's Little Lambs,Travis d'Arnaud,C,1
+Mary's Little Lambs,Adam Ottavino,RP,1
+Mary's Little Lambs,Bryan Abreu,RP,2
+Mary's Little Lambs,Jon Gray,SP,2
+Mary's Little Lambs,Ricky Tiedemann,SP,1
+Mary's Little Lambs,Edwin Diaz,RP,10
+Mary's Little Lambs,Evan Carter,LF,10
+Mary's Little Lambs,Shohei Ohtani,Util,30
+Mary's Little Lambs,Colin Poche,RP,0
+Mary's Little Lambs,Tim Mayza,RP,0
+Yellow&Black Attack,Sonny Gray,SP,10
+Yellow&Black Attack,Gerrit Cole,SP,6
+Yellow&Black Attack,Thairo Estrada,"2B,SS",10
+Yellow&Black Attack,James Outman,"LF,CF",9
+Yellow&Black Attack,Rhys Hoskins,1B,10
+Yellow&Black Attack,Ezequiel Tovar,SS,9
+Yellow&Black Attack,Cal Raleigh,C,9
+Yellow&Black Attack,Francisco Alvarez,C,7
+Yellow&Black Attack,Steven Kwan,LF,6
+Yellow&Black Attack,Walker Buehler,SP,7
+Yellow&Black Attack,Tommy Edman,"2B,SS,CF,RF",5
+Yellow&Black Attack,Jarred Kelenic,"LF,CF,RF",4
+Yellow&Black Attack,Andrew Vaughn,1B,3
+Yellow&Black Attack,David Robertson,RP,2
+Yellow&Black Attack,Andrew Abbott,SP,2
+Yellow&Black Attack,DJ LeMahieu,"1B,2B,3B",1
+Yellow&Black Attack,Luis Severino,SP,1
+Yellow&Black Attack,Jorge Lopez,RP,2
+Yellow&Black Attack,Zach Neto,SS,1
+Yellow&Black Attack,Brendan Rodgers,2B,1
+Yellow&Black Attack,Leody Taveras,CF,3
+PJ Shuffle,Luis Robert,CF,30
+PJ Shuffle,Teoscar Hernandez,RF,15
+PJ Shuffle,Yainer Diaz,"C,1B",10
+PJ Shuffle,Nico Hoerner,"2B,SS",24
+PJ Shuffle,Isaac Paredes,"1B,2B,3B",8
+PJ Shuffle,Andres Gimenez,2B,14
+PJ Shuffle,Joe Musgrove,SP,17
+PJ Shuffle,David Bednar,RP,14
+PJ Shuffle,Ryan Helsley,RP,15
+PJ Shuffle,Pete Fairbanks,RP,12
+PJ Shuffle,Eloy Jimenez,RF,9
+PJ Shuffle,Nathan Eovaldi,SP,8
+PJ Shuffle,Chas McCormick,"LF,CF,RF",11
+PJ Shuffle,Taylor Ward,LF,4
+PJ Shuffle,Ryan Pepiot,"SP,RP",4
+PJ Shuffle,Jared Jones,SP,1
+PJ Shuffle,Mason Miller,SP,4
+PJ Shuffle,A.J. Minter,RP,13
+PJ Shuffle,Zach Eflin,SP,11
+PJ Shuffle,Elly De La Cruz,"3B,SS",12
+PJ Shuffle,Matt McLain,"2B,SS",10
+PJ Shuffle,Victor Scott,"Util",0
+Spare Parts Too,Alex Bregman,3B,24
+Spare Parts Too,Vinnie Pasquantino,1B,21
+Spare Parts Too,Ha-Seong Kim,"2B,3B,SS",19
+Spare Parts Too,J.T. Realmuto,C,18
+Spare Parts Too,Luis Castillo,SP,28
+Spare Parts Too,Christian Yelich,LF,23
+Spare Parts Too,Jazz Chisholm,CF,21
+Spare Parts Too,Kyle Schwarber,LF,17
+Spare Parts Too,Jose Leclerc,RP,7
+Spare Parts Too,Casey Mize,SP,6
+Spare Parts Too,Willy Adames,SS,9
+Spare Parts Too,Michael Wacha,SP,2
+Spare Parts Too,Marcus Stroman,SP,4
+Spare Parts Too,Kenta Maeda,SP,3
+Spare Parts Too,Will Benson,"LF,RF",2
+Spare Parts Too,MacKenzie Gore,SP,2
+Spare Parts Too,Joe Boyle,SP,1
+Spare Parts Too,Michael Lorenzen,"SP,RP",1
+Spare Parts Too,Evan Phillips,RP,14
+Spare Parts Too,Nick Castellanos,RF,22
+Spare Parts Too,Triston Casas,1B,16
+Big Daddy's Funk,Bo Bichette,SS,36
+Big Daddy's Funk,Juan Soto,LF,54
+Big Daddy's Funk,Mike Trout,CF,23
+Big Daddy's Funk,Nolan Jones,"1B,LF,RF",26
+Big Daddy's Funk,Seiya Suzuki,RF,16
+Big Daddy's Funk,Max Fried,SP,23
+Big Daddy's Funk,Justin Steele,SP,14
+Big Daddy's Funk,Bailey Ober,SP,12
+Big Daddy's Funk,Masataka Yoshida,LF,10
+Big Daddy's Funk,Christopher Morel,"2B,CF,RF",12
+Big Daddy's Funk,Eduardo Rodriguez,SP,6
+Big Daddy's Funk,Shota Imanaga,SP,9
+Big Daddy's Funk,Kyle Finnegan,RP,3
+Big Daddy's Funk,MJ Melendez,"C,LF,RF",4
+Big Daddy's Funk,Carlos Estevez,RP,4
+Big Daddy's Funk,Griffin Jax,RP,2
+Big Daddy's Funk,Eugenio Suarez,3B,2
+Big Daddy's Funk,Chris Martin,RP,1
+Big Daddy's Funk,Jacob deGrom,SP,1
+Big Daddy's Funk,Caleb Ferguson,"SP,RP",1
+Big Daddy's Funk,Erik Swanson,RP,1
+Springfield Isotopes,Mookie Betts,"2B,SS,RF",63
+Springfield Isotopes,Austin Riley,3B,46
+Springfield Isotopes,Cody Bellinger,"1B,CF",27
+Springfield Isotopes,Will Smith,C,18
+Springfield Isotopes,Bobby Miller,SP,17
+Springfield Isotopes,Ryan Pressly,RP,17
+Springfield Isotopes,Alexis Diaz,RP,16
+Springfield Isotopes,TJ Friedl,"LF,CF",12
+Springfield Isotopes,Ryan Mountcastle,1B,7
+Springfield Isotopes,Nick Pivetta,"SP,RP",5
+Springfield Isotopes,Starling Marte,RF,6
+Springfield Isotopes,Jeimer Candelario,"1B,3B",6
+Springfield Isotopes,Lourdes Gurriel,LF,5
+Springfield Isotopes,J.P. Crawford,SS,4
+Springfield Isotopes,Aaron Civale,SP,4
+Springfield Isotopes,Emmet Sheehan,SP,2
+Springfield Isotopes,Garrett Whitlock,"SP,RP",1
+Springfield Isotopes,Tim Anderson,SS,1
+Springfield Isotopes,Brendan Donovan,"1B,2B,LF,RF",1
+Springfield Isotopes,Jackson Merrill,SS,1
+Springfield Isotopes,Harrison Bader,CF,1
+What Can Braun Do 4U,Kyle Tucker,RF,62
+What Can Braun Do 4U,Manny Machado,3B,30
+What Can Braun Do 4U,Josh Naylor,1B,17
+What Can Braun Do 4U,Oneil Cruz,SS,20
+What Can Braun Do 4U,Ketel Marte,2B,20
+What Can Braun Do 4U,William Contreras,C,20
+What Can Braun Do 4U,Carlos Correa,SS,13
+What Can Braun Do 4U,Carlos Rodon,SP,13
+What Can Braun Do 4U,Brandon Nimmo,"LF,CF",9
+What Can Braun Do 4U,Jose Alvarado,RP,7
+What Can Braun Do 4U,Jack Suwinski,"LF,CF,RF",5
+What Can Braun Do 4U,Nick Lodolo,SP,5
+What Can Braun Do 4U,Cristopher Sanchez,SP,4
+What Can Braun Do 4U,Shane Baz,SP,5
+What Can Braun Do 4U,Matt Strahm,"SP,RP",3
+What Can Braun Do 4U,Devin Williams,RP,1
+What Can Braun Do 4U,A.J. Puk,RP,3
+What Can Braun Do 4U,Andrew Kittredge,RP,1
+What Can Braun Do 4U,Trevor Megill,RP,1
+What Can Braun Do 4U,Gabe Speier,RP,1
+What Can Braun Do 4U,Spencer Strider,SP,20
+O'Hoppe Day,Fernando Tatis,RF,49
+O'Hoppe Day,Aaron Nola,SP,28
+O'Hoppe Day,Vladimir Guerrero,1B,44
+O'Hoppe Day,Pablo Lopez,SP,32
+O'Hoppe Day,Wyatt Langford,Util,13
+O'Hoppe Day,Hunter Brown,SP,9
+O'Hoppe Day,Jackson Chourio,CF,12
+O'Hoppe Day,Maikel Garcia,"3B,SS",6
+O'Hoppe Day,Brandon Drury,"1B,2B",6
+O'Hoppe Day,Jeremy Pena,SS,7
+O'Hoppe Day,Kutter Crawford,"SP,RP",4
+O'Hoppe Day,Reese Olson,SP,2
+O'Hoppe Day,Will Smith,RP,7
+O'Hoppe Day,Emilio Pagan,RP,1
+O'Hoppe Day,Brusdar Graterol,RP,1
+O'Hoppe Day,Brock Stewart,RP,1
+O'Hoppe Day,Matt Wallner,"LF,RF",1
+O'Hoppe Day,Brooks Lee,SS,1
+O'Hoppe Day,Taylor Rogers,RP,11
+O'Hoppe Day,Logan O'Hoppe,C,11
+O'Hoppe Day,Lane Thomas,"CF,RF",11
+O'Hoppe Day,Shohei Ohtani,SP,0
+O'Hoppe Day,Willi Castro,"2B,3B,LF,CF",0
+O'Hoppe Day,Jordan Wicks,SP,0
+Frank in the House,Tyler Glasnow,SP,21
+Frank in the House,Freddy Peralta,SP,23
+Frank in the House,Eury Perez,SP,17
+Frank in the House,Esteury Ruiz,"LF,CF,RF",11
+Frank in the House,Anthony Volpe,SS,11
+Frank in the House,Max Muncy,3B,9
+Frank in the House,Ian Happ,LF,11
+Frank in the House,Nathaniel Lowe,1B,9
+Frank in the House,Jordan Montgomery,SP,9
+Frank in the House,Trevor Story,SS,5
+Frank in the House,Lars Nootbaar,"LF,CF,RF",5
+Frank in the House,Byron Buxton,Util,5
+Frank in the House,Jose Abreu,1B,4
+Frank in the House,Alex Verdugo,RF,4
+Frank in the House,Gavin Williams,SP,6
+Frank in the House,Braxton Garrett,SP,4
+Frank in the House,Gavin Lux,2B,1
+Frank in the House,Elias Diaz,C,1
+Frank in the House,Robert Stephenson,RP,1
+Frank in the House,Johan Rojas,CF,3
+Frank in the House,Tyler Kinley,RP,1
+My Name is My Name,Michael Harris,CF,30
+My Name is My Name,Gunnar Henderson,"3B,SS",37
+My Name is My Name,Yoshinobu Yamamoto,SP,25
+My Name is My Name,Clay Holmes,RP,13
+My Name is My Name,Jordan Walker,"LF,RF",14
+My Name is My Name,Nolan Gorman,"2B,3B",9
+My Name is My Name,Bryan Woo,SP,12
+My Name is My Name,Tanner Scott,RP,14
+My Name is My Name,Gabriel Moreno,C,8
+My Name is My Name,Anthony Rizzo,1B,3
+My Name is My Name,Brandon Pfaadt,SP,10
+My Name is My Name,Bryce Miller,SP,5
+My Name is My Name,Matt Chapman,3B,5
+My Name is My Name,Giancarlo Stanton,RF,5
+My Name is My Name,Nestor Cortes,SP,4
+My Name is My Name,Hector Neris,RP,5
+My Name is My Name,Robert Suarez,RP,14
+My Name is My Name,Jung Hoo Lee,Util,16
+My Name is My Name,Tarik Skubal,SP,10
+My Name is My Name,Jackson Holliday,SS,0
+My Name is My Name,Julio Rodriguez,CF,21
+My Name is My Name,Ian Hamilton,RP,0
+IWU Tang Clan,Aaron Judge,"CF,RF",52
+IWU Tang Clan,Matt Olson,1B,59
+IWU Tang Clan,Rafael Devers,3B,39
+IWU Tang Clan,Corey Seager,SS,32
+IWU Tang Clan,Salvador Perez,"C,1B",14
+IWU Tang Clan,Jeff McNeil,"2B,LF,RF",11
+IWU Tang Clan,George Springer,RF,16
+IWU Tang Clan,Seth Lugo,SP,2
+IWU Tang Clan,Louie Varland,"SP,RP",2
+IWU Tang Clan,Griffin Canning,SP,2
+IWU Tang Clan,Brayan Bello,SP,2
+IWU Tang Clan,Kyle Hendricks,SP,1
+IWU Tang Clan,Clarke Schmidt,SP,1
+IWU Tang Clan,Lance Lynn,SP,1
+IWU Tang Clan,Joe Jimenez,RP,1
+IWU Tang Clan,Julian Merryweather,RP,1
+IWU Tang Clan,DL Hall,RP,1
+IWU Tang Clan,Joe Kelly,RP,1
+IWU Tang Clan,Orion Kerkering,RP,1
+IWU Tang Clan,Zack Gelof,2B,10
+IWU Tang Clan,Spencer Steer,"1B,2B,3B,LF",11
+IWU Tang Clan,Jasson Dominguez,CF,0
+Holy Toledo!,Pete Alonso,1B,41
+Holy Toledo!,Randy Arozarena,LF,30
+Holy Toledo!,Luis Campusano,C,7
+Holy Toledo!,Logan Gilbert,SP,24
+Holy Toledo!,Paul Sewald,RP,17
+Holy Toledo!,Bryson Stott,2B,13
+Holy Toledo!,Luis Arraez,"1B,2B",16
+Holy Toledo!,Jarren Duran,"LF,CF",7
+Holy Toledo!,Kerry Carpenter,"LF,RF",8
+Holy Toledo!,Lucas Giolito,SP,2
+Holy Toledo!,J.D. Martinez,LF,6
+Holy Toledo!,Junior Caminero,3B,1
+Holy Toledo!,Vaughn Grissom,SS,1
+Holy Toledo!,Michael Busch,3B,3
+Holy Toledo!,Zack Littell,"SP,RP",2
+Holy Toledo!,Reid Detmers,SP,3
+Holy Toledo!,Taj Bradley,SP,1
+Holy Toledo!,Nelson Velazquez,"LF,RF",1
+Holy Toledo!,Cole Ragans,"SP,RP",10
+Holy Toledo!,Spencer Torkelson,1B,10
+Holy Toledo!,Bryce Harper,1B,19
+Holy Toledo!,Tyler Wells,SP,0
+Holy Toledo!,Yennier Cano,RP,0
+Holy Toledo!,Jordan Hicks,RP,0
+Boys of Summer,Kevin Gausman,SP,23
+Boys of Summer,Jonah Heim,C,8
+Boys of Summer,Xander Bogaerts,SS,28
+Boys of Summer,Gleyber Torres,2B,21
+Boys of Summer,Raisel Iglesias,RP,17
+Boys of Summer,Dylan Cease,SP,17
+Boys of Summer,Blake Snell,SP,16
+Boys of Summer,Jesús Luzardo,SP,27
+Boys of Summer,Andres Munoz,RP,16
+Boys of Summer,Nolan Arenado,3B,30
+Boys of Summer,Tanner Bibee,SP,28
+Boys of Summer,Christian Walker,1B,16
+Boys of Summer,Brandon Lowe,2B,4
+Boys of Summer,Max Kepler,RF,2
+Boys of Summer,Joey Gallo,"1B,LF,CF,RF",1
+Boys of Summer,Adam Duvall,"CF,RF",1
+Boys of Summer,Sal Frelick,"CF,RF",1
+Boys of Summer,Jake McCarthy,"CF,RF",1
+Boys of Summer,Bryan De La Cruz,"LF,RF",1
+Boys of Summer,Max Meyer,SP,1
+Boys of Summer,Nolan Schanuel,1B,1
+Boys of Summer,Luis Gil,SP,0
+Boys of Summer,Michael Soroka,SP,0
+The Revs.,CJ Abrams,SS,24
+The Revs.,Ronald Acuna,RF,67
+The Revs.,Emmanuel Clase,RP,21
+The Revs.,Sean Murphy,C,10
+The Revs.,Kenley Jansen,RP,11
+The Revs.,Cedric Mullins,CF,12
+The Revs.,Kyle Bradish,SP,13
+The Revs.,Jorge Soler,RF,11
+The Revs.,Jonathan India,2B,8
+The Revs.,Daulton Varsho,"LF,CF",7
+The Revs.,Keibert Ruiz,C,5
+The Revs.,Mitch Garver,C,4
+The Revs.,Charlie Morton,SP,5
+The Revs.,Jose Siri,CF,4
+The Revs.,Ryan McMahon,"2B,3B",4
+The Revs.,Alex Lange,RP,5
+The Revs.,Josh Bell,1B,2
+The Revs.,Austin Hays,"LF,CF",2
+The Revs.,Max Scherzer,SP,2
+The Revs.,Logan Allen,SP,1
+The Revs.,Colt Keith,"2B,3B",1
+Kirby Puckett,Corbin Burnes,SP,34
+Kirby Puckett,Zack Wheeler,SP,33
+Kirby Puckett,Marcus Semien,2B,33
+Kirby Puckett,Joe Ryan,SP,22
+Kirby Puckett,Zac Gallen,SP,28
+Kirby Puckett,Jhoan Duran,RP,22
+Kirby Puckett,Riley Greene,"CF,RF",10
+Kirby Puckett,Edouard Julien,2B,9
+Kirby Puckett,Jake Fraley,"LF,RF",1
+Kirby Puckett,Brent Rooker,"LF,RF",1
+Kirby Puckett,Javier Baez,SS,1
+Kirby Puckett,Ty France,1B,1
+Kirby Puckett,Alejandro Kirk,C,1
+Kirby Puckett,Garrett Crochet,RP,1
+Kirby Puckett,Henry Davis,RF,1
+Kirby Puckett,Jordan Lawlar,SS,1
+Kirby Puckett,Tyler Rogers,RP,2
+Kirby Puckett,Mitch Haniger,"LF,RF",1
+Kirby Puckett,George Kirby,SP,28
+Kirby Puckett,Royce Lewis,3B,10
+Kirby Puckett,Corbin Carroll,"LF,CF,RF",20

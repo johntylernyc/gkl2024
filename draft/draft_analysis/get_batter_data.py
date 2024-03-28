@@ -51,4 +51,4 @@ final_batting_stats.columns = [clean_column_name(col) for col in final_batting_s
 final_batting_stats.columns = [col.replace('/', '_per_') for col in final_batting_stats.columns]
 
 # Use to_gbq to append the data to the batter_stats table in BigQuery
-final_batting_stats.to_gbq(batter_table_id, project_id=project_id, if_exists='append', credentials=credentials)
+final_batting_stats.to_gbq(batter_table_id, project_id=project_id, if_exists='replace', credentials=credentials)
