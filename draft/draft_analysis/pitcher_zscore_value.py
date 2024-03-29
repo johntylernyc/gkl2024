@@ -17,8 +17,6 @@ SELECT
   *
 FROM
   `{project_id}.{dataset_name}.{table_name}`
-WHERE 
-  avg_ip >= 50
 """
 
 data = client.query(query).to_dataframe()
@@ -85,9 +83,9 @@ data['expected_value_ratios'] = data[['walks_hits_below_avg_scaled', 'earned_run
 data['expected_value'] = data['expected_value_counting']+data['expected_value_ratios'] 
 
 # Find the 25th percentile player value
-p25_value = data['expected_value'].quantile(0.35)
+p25_value = data['expected_value'].quantile(0.25)
 
-# Shift the values so that the 25th percentile is at 0
+# Shift the values so that the 35th percentile is at 0
 shift_value = abs(p25_value)
 data['adjusted_expected_value'] = data['expected_value'] + shift_value
 
@@ -123,19 +121,19 @@ def adjust_player_value(row):
     return adjusted_value
 
 # Calculate draft value
-data['player_draft_value'] = data['adjusted_expected_value'] * 4.19
+data['player_draft_value'] = data['adjusted_expected_value'] * 4.27
 
-def enforce_negative_value_floor(row, floor_value=-10):
-    # Check if the adjusted value is less than the floor value
-    if row['player_draft_value'] < floor_value:
-        # If it is, set it to the floor value
-        return floor_value
-    else:
-        # Otherwise, keep the original value
-        return row['player_draft_value']
+# def enforce_negative_value_floor(row, floor_value=-10):
+#     # Check if the adjusted value is less than the floor value
+#     if row['player_draft_value'] < floor_value:
+#         # If it is, set it to the floor value
+#         return floor_value
+#     else:
+#         # Otherwise, keep the original value
+#         return row['player_draft_value']
 
-# Apply the enforce_negative_value_floor function to each row
-data['player_draft_value'] = data.apply(enforce_negative_value_floor, axis=1)
+# # Apply the enforce_negative_value_floor function to each row
+# data['player_draft_value'] = data.apply(enforce_negative_value_floor, axis=1)
 
 destination_table_id = f"{project_id}.{dataset_name}.pitcher_zscore_value"
 

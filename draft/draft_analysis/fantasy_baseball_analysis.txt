@@ -1,0 +1,144 @@
+The ShapeShifters 
+Avg. Pick Place: 181
+First Pick: 7
+Picks between selection: 12.5 
+Longest Between Picks: 44
+Shortest Between Picks: 1
+Unused	$0 
+
+Tenacious D
+Avg. Pick Place: 151
+First Pick: 35
+Picks between selection: 11.1
+Longest Between Picks: 36
+Shortest Between Picks: 1
+Unused: $18
+
+Steel City Sluggers
+Avg. Pick Place: 183
+First Pick: 28
+Picks between selection: 18.1
+Longest Between Picks: 58
+Shortest Between Picks: 3
+Unused: $0
+
+Mary's Little Lambs
+Avg. Pick Place: 197
+First Pick: 8
+Picks between selection: 16.7
+Longest Between Picks: 70
+Shortest Between Picks: 2
+Unused: $5
+
+Yellow&Black Attack
+Avg. Pick Place: 217
+First Pick: 96
+Picks between selection: 12.2
+Longest Between Picks: 38
+Shortest Between Picks: 1
+Unused: $152
+
+PJ Shuffle
+Avg. Pick Place: 126
+First Pick: 22
+Picks between selection: 12.7
+Longest Between Picks: 47
+Shortest Between Picks: 1
+Unused: $14
+
+Spare Parts Too
+Avg. Pick Place: 130
+First Pick: 4
+Picks between selection: 16.6
+Longest Between Picks: 77
+Shortest Between Picks: 3
+Unused: $0
+
+Big Daddy's Funk
+Avg. Pick Place: 168
+First Pick: 3
+Picks between selection: 16.8
+Longest Between Picks: 59
+Shortest Between Picks: 1
+Unused: $0
+
+Springfield Isotopes
+Avg. Pick Place: 173
+First Pick: 5
+Picks between selection: 16.9   
+Longest Between Picks: 73
+Shortest Between Picks: 4
+Unused: $0
+
+What Can Braun Do 4U
+Avg. Pick Place: 182
+First Pick: 12
+Picks between selection: 16.7
+Longest Between Picks: 35
+Shortest Between Picks: 2
+Unused: $0
+
+O'Hoppe Day
+Avg. Pick Place: 173
+First Pick: 6
+Picks between selection: 18.4 
+Longest Between Picks: 61
+Shortest Between Picks: 6
+Unused: $3
+
+Frank In The House
+Avg. Pick Place: 190
+First Pick: 48
+Picks between selection: 14.2
+Longest Between Picks: 45
+Shortest Between Picks: 1
+Unused: $99
+
+Unused	$99
+My Name is My Name
+Avg. Pick Place: 195
+First Pick: 38 
+Picks between selection: 19.1
+Longest Between Picks: 71
+Shortest Between Picks: 1
+Unused: $0
+
+IWU Tang Clan
+Avg. Pick Place: 156
+First Pick: 9
+Picks between selection: 11.2
+Longest Between Picks: 69
+Shortest Between Picks: 2
+Unused: $0
+
+Holy Toledo!
+Avg. Pick Place: 181
+First Pick: 15
+Picks between selection: 18
+Longest Between Picks: 57
+Shortest Between Picks: 1
+Unused: $38
+
+Boys of Summer
+Avg. Pick Place: 164
+First Pick: 26
+Picks between selection: 16
+Longest Between Picks: 80
+Shortest Between Picks: 1
+Unused: $0
+
+The Revs.
+Avg. Pick Place: 164
+First Pick: 1
+Picks between selection: 16
+Longest Between Picks: 80
+Shortest Between Picks: 1
+Unused	$41 
+
+Kirby Puckett
+Avg. Pick Place: 195
+First Pick: 21
+Picks between selection: 19.1
+Longest Between Picks: 71
+Shortest Between Picks: 1
+Unused: $0
