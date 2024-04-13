@@ -1,0 +1,20 @@
+{
+    "name": "baseball-probable-pitchers",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "update": "ncu -u && npm update && rm package-lock.json && npm install"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "x-ray": "^2.3.4"
+    },
+    "devDependencies": {
+      "npm-check-updates": "^16.10.12"
+    }
+  }

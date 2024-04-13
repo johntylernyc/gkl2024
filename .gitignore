@@ -161,7 +161,11 @@ cython_debug/
 
 # Service accounts and secrets
 python-sandbox-381204-b2afea7e39f8.json
+python-sandbox-381204-cdb721b31f7f.json
 draft_analysis/secrets.py
 
 # venv
 myenv/
+
+# node
+homeruns/baseball-probable-pitchers/node_modules/
