@@ -4,7 +4,7 @@ from google.oauth2 import service_account
 from pybaseball import playerid_lookup, playerid_reverse_lookup
 from config_bigquery import json_key_path, project_id, dataset_name, table_name
 
-schedule = statsapi.schedule(start_date='04/10/2024', end_date='04/11/2024')
+schedule = statsapi.schedule(start_date='04/13/2024', end_date='04/13/2024')
 json_key_path = json_key_path
 project_id = project_id
 dataset_name = dataset_name
@@ -79,14 +79,26 @@ for game in schedule:
 
     print(f"Processing game {game_id} between {away_team} and {home_team} at {venue} on {game_date}.")
 
-    # Lookup the player IDs for the away and home pitchers
-    away_pitcher = away_pitcher.split(' ')
-    away_pitcher_mlbam = safe_playerid_lookup(away_pitcher[1], away_pitcher[0])
-    home_pitcher = home_pitcher.split(' ')
-    home_pitcher_mlbam = safe_playerid_lookup(home_pitcher[1], home_pitcher[0])
+    if away_pitcher:
+        away_pitcher_parts = away_pitcher.split(' ')
+        if len(away_pitcher_parts) >= 2:
+            away_pitcher_mlbam = safe_playerid_lookup(away_pitcher_parts[1], away_pitcher_parts[0])
+        else:
+            away_pitcher_mlbam = None
+    else:
+        away_pitcher_mlbam = None
 
-    print(f"Home Pitcher: {home_pitcher[1]} {home_pitcher[0]} (FGID: {home_pitcher_mlbam})")
-    print(f"Away Pitcher: {away_pitcher[1]} {away_pitcher[0]} (FGID: {away_pitcher_mlbam})")
+    if home_pitcher:
+        home_pitcher_parts = home_pitcher.split(' ')
+        if len(home_pitcher_parts) >= 2:
+            home_pitcher_mlbam = safe_playerid_lookup(home_pitcher_parts[1], home_pitcher_parts[0])
+        else:
+            home_pitcher_mlbam = None
+    else:
+        home_pitcher_mlbam = None
+
+    print(f"Home Pitcher: {' '.join(home_pitcher_parts) if home_pitcher else 'Unknown'} (MLBAM ID: {home_pitcher_mlbam})")
+    print(f"Away Pitcher: {' '.join(away_pitcher_parts) if away_pitcher else 'Unknown'} (MLBAM ID: {away_pitcher_mlbam})")
     
     rows_to_insert.append((
         game_date, 
@@ -95,14 +107,12 @@ for game in schedule:
         away_team, 
         int(home_team_id), 
         home_team, 
-        int(away_pitcher_mlbam), 
-        ' '.join(away_pitcher), 
-        int(home_pitcher_mlbam), 
-        ' '.join(home_pitcher), 
+        int(away_pitcher_mlbam) if away_pitcher_mlbam else None, 
+        ' '.join(away_pitcher_parts) if away_pitcher else 'Unknown', 
+        int(home_pitcher_mlbam) if home_pitcher_mlbam else None, 
+        ' '.join(home_pitcher_parts) if home_pitcher else 'Unknown', 
         venue, 
         game_id, 
         game_status))
-    
-    print(rows_to_insert)
 
 client.insert_rows(table, rows_to_insert)
