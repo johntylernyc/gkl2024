@@ -1,4 +1,6 @@
 ## General betting strategy 
+
+### Determine universe of pitchers and batters we want to consider for a given day.
     ✅ Retrieve games, probable starters for each game, venue, and hr index for the park. (get_probable_starters.py)
     - For pitchers appearing in games with a venue hr index of 95 or higher evaluate: 
         - Hard hit rate above league average
@@ -14,6 +16,22 @@
     - For batters that meet all 3 criteria, consider the following: 
         - The batter's at bats per home run rate as compared to league average. 
         - The batter's splits against left and right handed pitchers for GB/FB Rate, Hard Hit%, Pull% (from FanGraphs)
+
+### Home run model we believe requires more nuanced data to model probability.
+
+What will we know at the time of an at bat? 
+- Who the pitcher is 
+- Who the batter is 
+- Information about the pitcher's arsenal and past pitches thrown and outcomes
+- Information about the batter's past at bats, including pitches thrown and outcomes 
+
+Pitcher Statcast Fields: 
+- game_date 
+- release_speed 
+- batter (MLB Player Id tied to the play event) 
+- events (Event of the resulting plate appearance) 
+
+
     - Using the above information, calculate a probability of a home run for each batter in the lineup. 
         - Use the following formula to start: TBD 
         - Over time, improve the formula by: 

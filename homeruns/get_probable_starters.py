@@ -5,7 +5,7 @@ from pybaseball import playerid_lookup
 from config_bigquery import json_key_path, project_id, dataset_name, get_todays_games_table as table_name
 from park_factors import fetch_park_factors
 
-schedule = statsapi.schedule(start_date='04/12/2024', end_date='04/12/2024')
+schedule = statsapi.schedule(start_date='04/18/2024', end_date='04/18/2024')
 json_key_path = json_key_path
 project_id = project_id
 dataset_name = dataset_name
@@ -29,7 +29,7 @@ schema = [
     bigquery.SchemaField('home_pitcher_mlbam', 'INTEGER'),
     bigquery.SchemaField('home_pitcher', 'STRING'),
     bigquery.SchemaField('venue', 'STRING'),
-    bigquery.SchemaField('hr_index', 'STRING'),
+    bigquery.SchemaField('hr_index', 'INTEGER'),
     bigquery.SchemaField('game_id', 'INTEGER'),
     bigquery.SchemaField('game_status', 'STRING')
 ]
