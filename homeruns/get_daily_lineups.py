@@ -1,3 +1,7 @@
+''' 
+This script is not yet working, although parts of the commented code have shown promise
+'''
+
 import statsapi
 from pybaseball import playerid_lookup
 import pandas as pd
